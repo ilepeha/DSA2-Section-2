@@ -1,0 +1,15 @@
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.csproj.AssemblyReference.cache
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.AssemblyInfoInputs.cache
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.AssemblyInfo.cs
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.csproj.CoreCompileInputs.cache
+/Users/ilepeha/Desktop/Section 2/Roadapp/bin/Debug/net6.0/RoadnetworkApp
+/Users/ilepeha/Desktop/Section 2/Roadapp/bin/Debug/net6.0/RoadnetworkApp.deps.json
+/Users/ilepeha/Desktop/Section 2/Roadapp/bin/Debug/net6.0/RoadnetworkApp.runtimeconfig.json
+/Users/ilepeha/Desktop/Section 2/Roadapp/bin/Debug/net6.0/RoadnetworkApp.dll
+/Users/ilepeha/Desktop/Section 2/Roadapp/bin/Debug/net6.0/RoadnetworkApp.pdb
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.dll
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/refint/RoadnetworkApp.dll
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.pdb
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/RoadnetworkApp.genruntimeconfig.cache
+/Users/ilepeha/Desktop/Section 2/Roadapp/obj/Debug/net6.0/ref/RoadnetworkApp.dll
